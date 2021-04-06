@@ -13,3 +13,5 @@ Feather being used.
 Note that not all feathers are supported,check pins and features before trying.
 
 ![alt text](https://github.com/Sd4Projects/MiniFeatherAdapter/blob/main/featherStack.jpg?raw=true "inuseboard")
+
+Bare board can be ordered from OSH Park. https://oshpark.com/shared_projects/8QF1AE0m with project name MiniFeatherAdapter_v4b.kicad_pcb or use source files and order from whoever you want.
